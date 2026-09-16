@@ -1,0 +1,6 @@
+# OSTEP code examples build outputs
+intro/cpu
+intro/io
+intro/mem
+intro/threads
+*.o
